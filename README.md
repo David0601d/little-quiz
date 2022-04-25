@@ -7,5 +7,8 @@ square執行結果
 
 
 
+
+
+sprial執行結果
 ![image](https://user-images.githubusercontent.com/52811389/165099693-33b22ad4-3591-425e-9980-61f2d36b2a5d.png)
 

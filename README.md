@@ -1,12 +1,12 @@
 # little-quiz
  有趣的題目
  
- 
+ ----
 square執行結果
  ![image](https://user-images.githubusercontent.com/52811389/165099504-c660915d-29b5-4bc8-9c6b-eb932964aaa3.png)
 
 
-
+----
 
 
 sprial執行結果

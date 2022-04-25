@@ -9,7 +9,7 @@
 
 
 
-### sprial執行結果，這是別人做的題目，我覺得長得很醜所以我改編了一下
+### sprial執行結果，這是別的大學的程式課程題目，我覺得長得很醜所以我改編了一下 (網址：https://ithelp.ithome.com.tw/articles/10190384)
 ![image](https://user-images.githubusercontent.com/52811389/165099693-33b22ad4-3591-425e-9980-61f2d36b2a5d.png)
 
 

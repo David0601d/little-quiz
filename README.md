@@ -9,10 +9,10 @@
 
 
 
-### sprial執行結果，這是別的大學的程式課程題目，我覺得長得很醜所以我改編了一下 (網址：https://ithelp.ithome.com.tw/articles/10190384)
+### sprial執行結果，這是別的大學的程式課程題目 (網址：https://ithelp.ithome.com.tw/articles/10190384)
 ![image](https://user-images.githubusercontent.com/52811389/165099693-33b22ad4-3591-425e-9980-61f2d36b2a5d.png)
 
 
 
-### sprial2執行結果，改良版如圖所，是不是好看多了呢~
+### sprial2執行結果，因為我覺得原題目長得很醜所以我改編了一下，是不是好看多了呢~
 ![image](https://user-images.githubusercontent.com/52811389/165100423-d1560ada-8510-4d3f-ac43-e10d6d15c5ae.png)
